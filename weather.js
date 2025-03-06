@@ -1,5 +1,5 @@
 
-const apikey = "e3f64fd739e9bbc8f69fe02aa0360f70"
+const apikey = "give your api here"
 const apiurl ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 //const apiurl = "https://api.openweathermap.org/data/2.5/weather?q=hyderabad&appid=e3f64fd739e9bbc8f69fe02aa0360f70";
 
